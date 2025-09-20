@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik0956A&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+
 
 ---
 
