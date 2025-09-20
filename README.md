@@ -1,59 +1,45 @@
-# 👋 Hey, I’m Karthik H Gadagi  
-
-🚀 Passionate **Full-Stack Developer** and **Cybersecurity Enthusiast** with a knack for building impactful projects and solving real-world problems. I love blending **AI, Web Development, and Security** to create innovative solutions.  
-
----
-
-## 🧑‍💻 About Me
-- 🎓 B.E in **Computer Science Engineering** @ MSRIT (2023–2027)  
-- 🏆 Active **Hackathon participant** and **Tech Event contributor**  
-- 🔒 Certified in **Google Cybersecurity Professional Certificate**  
-- 💡 Always exploring **AI, Web, and System Security**  
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=⚡+Tech+Stack;🔥+Featured+Projects" alt="Typing SVG" />
+</p>
 
 ---
 
-## ⚡ Tech Stack  
-**Languages & Core:**  
-`Java` | `Python` | `JavaScript` | `HTML` | `CSS`  
+# ⚡ Tech Stack  
 
-**Frameworks & Libraries:**  
-`React` | `Tailwind CSS` | `Bootstrap` | `Express.js` | `EJS`  
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</p>
 
-**Databases & Tools:**  
-`MongoDB` | `Node.js` | `Git` | `Streamlit`  
-
-**Specialties:**  
-💻 Full-Stack Development | 📊 Data Structures & Algorithms | 🤖 AI/ML Integrations  
-
----
-
-## 🔥 Featured Projects  
-
-### 📨 [Chatty - Real Time Messaging App](https://chatty-try6.onrender.com/)  
-⚡ Real-time chat app with image support, robust authentication & Socket.io synchronization.  
-*Stack:* Node.js, Express.js, React, TailwindCSS, Socket.io  
-
-### 🎉 [Eventify - Advanced Event Management](https://eventify-uazq.onrender.com/)  
-📅 Event management platform with email notifications, payments, admin dashboard & helpdesk.  
-*Stack:* Node.js, Express.js, EJS, TailwindCSS  
-
-### ⚖️ [ClauseAI - Legal AI ChatBot](https://github.com/Karthik0956A/clauseai)  
-🤖 AI-powered tool that simplifies complex legal documents into easy-to-understand insights.  
-*Stack:* Gemini-GenAI, Python, Streamlit  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karthik0956A&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
-## 📜 Certifications
-- ✅ Google Cybersecurity Professional Certificate (Coursera)  
-- ✅ Web Development Bootcamp (Udemy)  
+# 🔥 Featured Projects  
+
+<p align="center">
+  <a href="https://chatty-try6.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik0956A&repo=chatty&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://eventify-uazq.onrender.com/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik0956A&repo=eventify&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Karthik0956A/clauseai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Karthik0956A&repo=clauseai&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
-## 📫 Connect with Me  
-- 🌍 [Portfolio](https://github.com/Karthik0956A)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/karthik-h-gadagi-34aa53277/)  
-- 📧 [Email Me](mailto:khghmg@gmail.com)  
-
----
-
-⭐️ *“Building solutions today that empower tomorrow.”*  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karthik0956A&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</p>
