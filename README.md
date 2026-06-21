@@ -36,6 +36,9 @@
   </a>
 </p>
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=karthik0956a&color=blue)
+
 ---
 
 
